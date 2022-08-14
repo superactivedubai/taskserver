@@ -33,3 +33,6 @@ app.get('/atlas',(req,res)=> {
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`);
 })
+
+// Export the Express API required by vercel to turn Express into a serverless function
+module.exports = app;
