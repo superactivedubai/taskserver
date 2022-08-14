@@ -1,0 +1,114 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "project": "NISSAN",
+      "taskName": "Repairing right door ",
+      "taskDesc": "Hi please dint and re-paint. good work with metal finish please. keep it until it dries",
+      "priority": "low",
+      "status": "completed",
+      "dueDate": "12/8/2022",
+      "assignee": [
+        1,
+        22
+      ]
+    },
+    {
+      "id": 3,
+      "project": "HONDA",
+      "taskName": "Repairing right door ",
+      "taskDesc": "Hi please dint and re-paint. good work with metal finish please. keep it until it dries...(more)",
+      "priority": "low",
+      "status": "inProgress",
+      "dueDate": "8/8/2022",
+      "assignee": [
+        1,
+        13.7,
+        9
+      ]
+    },
+    {
+      "id": 4,
+      "project": "NISSAN",
+      "taskName": "Repairing right door ",
+      "taskDesc": "Hi please dint and re-paint. good work with metal finish please. keep it until it dries",
+      "priority": "high",
+      "status": "completed",
+      "dueDate": "8/8/2022",
+      "assignee": [
+        1,
+        13.7,
+        9
+      ]
+    },
+    {
+      "project": "mercedes",
+      "taskName": "G400",
+      "taskDesc": "صيانة عامة الباب صبغ",
+      "priority": "low",
+      "status": "new",
+      "dueDate": "12/8/2022",
+      "assignee": [
+        1,
+        22
+      ],
+      "id": 5
+    },
+    {
+      "project": "volvo",
+      "taskName": "sdf",
+      "taskDesc": "sfa",
+      "priority": "low",
+      "status": "new",
+      "dueDate": "12/8/2022",
+      "assignee": [
+        1,
+        22
+      ],
+      "id": 6
+    },
+    {
+      "project": "audi",
+      "taskName": "Audi",
+      "taskDesc": "Aud",
+      "priority": "low",
+      "status": "new",
+      "dueDate": "12/8/2022",
+      "assignee": [
+        1,
+        22
+      ],
+      "id": 7
+    },
+    {
+      "project": "mercedes",
+      "taskName": "test",
+      "taskDesc": "test is the right",
+      "priority": "high",
+      "status": "new",
+      "dueDate": "12/8/2022",
+      "assignee": [
+        1,
+        22
+      ],
+      "id": 8
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
